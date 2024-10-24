@@ -1,0 +1,4 @@
+npm init
+npm install express
+pm install body-parser
+npm app.js
