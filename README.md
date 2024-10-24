@@ -86,4 +86,4 @@ A API permite realizar as seguintes operações matemáticas:
 ### 2. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/GervasioNeto/entregavel-3-ADS.git
