@@ -6,7 +6,7 @@ app.use(bodyParser.json());
 
 const port = 3000;
 
-// Inícial
+// Inicial
 app.get("/", function (req, res) {
   res.send(`
       <html>
